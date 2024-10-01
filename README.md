@@ -31,7 +31,7 @@ To use this project, you need a Google Earth Engine account. You can sign up for
 1. **Open the Script**:
    You can either download the `analysis.js` file from this repository or directly open the script in Google Earth Engine:
    
-   [Open in GEE](https://code.earthengine.google.com/?scriptPath=users%2Fdivechanrup%2FpracticeGIS%3AForestGainAndLoss)).
+   [Open in GEE](https://code.earthengine.google.com/?scriptPath=users%2Fdivechanrup%2FpracticeGIS%3AForestGainAndLoss).
 
 3. **Running the Script**:
    - The script calculates the total area of forest cover loss and gain in Gabon by clipping the Hansen dataset to the country's boundary.
