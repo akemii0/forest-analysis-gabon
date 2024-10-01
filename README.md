@@ -71,9 +71,6 @@ The results can also be visualized on the map, with forest loss displayed in red
 - **Extended Analysis**: The code can be easily modified to explore other regions or time frames, making it a useful tool for global or localized forest cover analysis.
 - **Annual Breakdown**: By adding an analysis for specific years, the script could provide yearly forest loss and gain trends.
 
-### License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ### Contact
 
