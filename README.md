@@ -29,7 +29,7 @@ To use this project, you need a Google Earth Engine account. You can sign up for
 #### Steps:
 
 1. **Open the Script**:
-   You can either download the `analysis.js` file from this repository or directly open the script in Google Earth Engine:
+   You can either download the `analysisOfGabon.js` file from this repository or directly open the script in Google Earth Engine:
    
    [Open in GEE](https://code.earthengine.google.com/?scriptPath=users%2Fdivechanrup%2FpracticeGIS%3AForestGainAndLoss).
 
